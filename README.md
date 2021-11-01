@@ -1,5 +1,5 @@
 # us-presidents
-A searchable list of US Presidents using React
+A simple searchable list of US Presidents using React
 
 1) Clone repository
 
