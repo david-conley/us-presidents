@@ -1,6 +1,8 @@
 # us-presidents
 A searchable list of US Presidents using React
 
-Run npm install
+1) Clone repository
 
-Run yarn start
+2) Run npm install
+
+3) Run yarn start
