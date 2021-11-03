@@ -28,7 +28,7 @@ class App extends Component {
 
         return (
             <div className='tc'>
-                <h1 className='f1'>United States Presidents</h1>
+                <h1 className='f1'>Presidents of the United States</h1>
                 <Searchbox search = {this.onSearchChange}/>
                 <Scroll>
                     <CardList presidents = {filteredPresidents}/>
