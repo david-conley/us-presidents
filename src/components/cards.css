@@ -6,3 +6,16 @@
 .card {
     width: 300px;
 }
+
+.id{
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+    display: flex;
+    color: gray;
+    border: 5px solid white;
+    background-color: white;
+    width: 50px;
+    transform-origin: 0 0;
+    transform: rotate(-25deg);
+}
