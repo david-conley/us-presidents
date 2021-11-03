@@ -12,6 +12,7 @@ const CardList = ({presidents}) => {
                             id={presidents[i].id} 
                             name={presidents[i].name} 
                             date={presidents[i].date} 
+                            party={presidents[i].party}
                             img={presidents[i].img}/>
                     )
                 })
